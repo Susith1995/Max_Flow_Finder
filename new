@@ -1,0 +1,23 @@
+
+Dynamic-ds ,info abt cc                   sum3=triplet in arr,sum=0/given val
+Reflex,sym,trans
+Qf-algo sole dynamic c prob.
+
+
+                                                    Accuracy= tp+tN/ all
+                                                    Recall=tp/tp+fn
+                                                    precision=tp/tp+fp
+
+mrgs=breakdown,single element,recollect o(n log n)
+ins=comparing,elements before,insert right pos o(n)
+sels=set min,search min,swap,increment o(n2)
+
+
+Bfs-searching algo tree/graph
+All neighbour nodes of root/adjacent
+Dfs-next depth level
+
+Tn- actual neg & predict neg
+Tp- actual pos &  p        pos
+Fn-actual pos &  p         neg
+Fp- actual neg &           pos
